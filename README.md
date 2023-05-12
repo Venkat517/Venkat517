@@ -6,7 +6,7 @@ UI developer
 
 Passionate in learning new technologies...!
 
-* 🌍  I'm based in Dallas, TX
+* 🌍  I'm based in Atlanta, GA
 * 🖥️  See my portfolio at [My Portfolio - Under Construction](http://google.com)
 * ✉️  You can contact me at [vebonam@outlook.com](mailto:vebonam@outlook.com)
 * 🧠  I'm learning JavaScript library - React
