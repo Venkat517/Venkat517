@@ -1,7 +1,7 @@
 Hi 👋 My name is Venkata S Bonam
 ================================
 
-UI developer
+UI/Angular developer
 ------------
 
 Passionate in learning new technologies...!
